@@ -113,6 +113,8 @@ class DataTransformation:
                 test_arr,
                 self.data_transformation_config.preprocessor_obj_file_path,
             )
+            # train_arr, test_arr, preprocessor_path = DataTransformation.initiate_data_transformation(train_data, test_data)
 
+      
         except Exception as e:
             raise CustomException(e, sys)
