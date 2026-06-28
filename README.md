@@ -38,12 +38,6 @@ It is designed to solve real-world problems efficiently and improve decision-mak
 
 ## 📈 Results
 The model provides good accuracy and helps in making better predictions based on input data.
-
----
-
-## 📸 Screenshots
-(Add your project screenshots here)
-
 ---
 
 ## 🚀 How to Run
